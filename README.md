@@ -11,3 +11,5 @@ First clone or download this repository.
  And then follow this code to install
    # chmod +x install.sh
    # ./install.sh
+
+Follow the instruction
